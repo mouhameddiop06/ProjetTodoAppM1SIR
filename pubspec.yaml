@@ -1,0 +1,48 @@
+name: todo_app
+description: A new Flutter project for todo management.
+version: 1.0.0+1
+
+# SDK Constraint requis
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Réseau et API
+  http: ^1.1.0
+  dio: ^5.3.2
+  
+  # Stockage local
+  shared_preferences: ^2.2.1
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  
+  # État et navigation
+  provider: ^6.0.5
+  
+  # Interface utilisateur
+  image_picker: ^1.0.4
+  cached_network_image: ^3.3.0
+  
+  # Géolocalisation et permissions
+  geolocator: ^10.1.0
+  permission_handler: ^11.0.1
+  
+  # Connectivité
+  connectivity_plus: ^5.0.1
+  
+  # Utilitaires
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

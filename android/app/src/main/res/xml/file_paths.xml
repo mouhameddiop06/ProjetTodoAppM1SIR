@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Chemin pour les images temporaires (caméra) -->
+    <external-cache-path name="external_cache" path="." />
+    
+    <!-- Chemin pour les fichiers de l'app -->
+    <external-files-path name="external_files" path="." />
+    
+    <!-- Chemin pour les images dans le cache -->
+    <cache-path name="cache" path="." />
+    
+    <!-- Chemin pour les fichiers internes -->
+    <files-path name="files" path="." />
+</paths>
