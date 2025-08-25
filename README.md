@@ -76,7 +76,6 @@ Une application mobile complète de gestion de tâches développée en **Flutter
 
 ##  Captures d'Écran
 
-![photo_9_2025-08-25_00-57-46](https://github.com/user-attachments/assets/036ace94-9caa-4160-bfc5-db6114084a8a)
 
 ![photo_4_2025-08-25_00-57-46](https://github.com/user-attachments/assets/0128d300-2874-4a49-9115-3bd2386f82ef)
 
